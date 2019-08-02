@@ -1,0 +1,38 @@
+.banner img {
+    width: 100%;
+
+}
+
+body {
+   background-color:  rgb(233, 238, 243);
+}
+
+.nav-title {
+    font-size: 3em;
+    margin-left: 1em;
+    padding-top: 0;
+}
+
+.nav-content {
+    height: 70px;
+}
+
+.btn-add{
+    background-color: rgba(46, 135, 170, 0.925);
+}
+
+.modal {
+    width: 100%;
+    text-align: center;
+}
+
+#icon-delete{  
+    color: black;
+}
+
+.access-btn{
+    text-align: center;
+    margin-top: 3em;
+}
+
+a { color: inherit; } 
