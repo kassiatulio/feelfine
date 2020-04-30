@@ -9,7 +9,7 @@
   "author": "Kassia Tulio",
   "license": "ISC",
   "dependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "webpack": "^4.32.2"
   }
 }
